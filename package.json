@@ -1,0 +1,20 @@
+{
+    "name": "proyecto-3",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "compile:sass": "sass --watch sass/main.scss micss/main.css"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/pabloxsb/preentrega2benitez.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/pabloxsb/preentrega2benitez/issues"
+    },
+    "homepage": "https://github.com/pabloxsb/preentrega2benitez#readme"
+}
