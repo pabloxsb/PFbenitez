@@ -223,7 +223,7 @@ main {
 .card:hover {
   transform: scale(1.1);
 }
-@media (min-width: 768px) {
+@media (min-width: 1024px) {
   .card {
     flex-direction: column;
   }
@@ -236,7 +236,7 @@ main {
 .tarjeta:hover {
   transform: scale(1.1);
 }
-@media (min-width: 768px) {
+@media (min-width: 1024px) {
   .tarjeta {
     flex-direction: column;
   }
