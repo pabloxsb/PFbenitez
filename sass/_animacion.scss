@@ -215,4 +215,7 @@
     &:hover {
         transform: scale(1.1);
     }
+    @include mobile {
+        flex-direction: column;
+    }
 }

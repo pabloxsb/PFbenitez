@@ -236,5 +236,10 @@ main {
 .tarjeta:hover {
   transform: scale(1.1);
 }
+@media (min-width: 768px) {
+  .tarjeta {
+    flex-direction: column;
+  }
+}
 
 /*# sourceMappingURL=main.css.map */
