@@ -1,4 +1,16 @@
+.portada {
+    background-image: url(.../imagen/onepiece-12_r3vz.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
 .diseño {
     background: rgb(2, 0, 36);
     background: linear-gradient( 90deg, rgba(2, 0, 36, 1) 0%, rgba(230, 227, 6, 1) 0%, rgba(130, 203, 118, 1) 42%, rgba(102, 186, 232, 1) 49%, rgba(228, 207, 152, 1) 79%, rgba(121, 115, 1, 1) 100%, rgba(0, 212, 255, 1) 100%);
+}
+
+footer {
+    padding-top: 8rem;
 }

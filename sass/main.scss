@@ -1,12 +1,9 @@
-// portada
-@import "./layout/portada";
-// reset
-@import "./base/reset";
+// variables
+@import "./variables";
+// layout
+@import "./layout";
+// base
+@import "./base";
 // animacion
-@import "./animacion/animacion";
-//navbar estilo
-@import "./layout/navbar";
-// footer
-@import "./layout/footer";
-// tarjeta
-@import "./animacion/tarjeta";
+@import "./animacion";
+//
