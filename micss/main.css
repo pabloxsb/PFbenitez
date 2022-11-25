@@ -4,6 +4,10 @@
   background: linear-gradient(90deg, rgb(2, 0, 36) 0%, rgb(230, 227, 6) 0%, rgb(130, 203, 118) 42%, rgb(102, 186, 232) 49%, rgb(228, 207, 152) 79%, rgb(121, 115, 1) 100%, rgb(0, 212, 255) 100%);
 }
 
+.capitulofin {
+  width: 28rem;
+}
+
 .portada {
   background-image: url(../imagen/onepiece-12_r3vz.jpg);
   background-size: cover;
